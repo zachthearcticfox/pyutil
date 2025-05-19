@@ -19,3 +19,6 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/zachthearcticfox/pyutil"
 "Bug Tracker" = "https://github.com/zachthearcticfox/pyutil/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
