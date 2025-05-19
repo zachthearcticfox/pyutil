@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pyutil/__init__.py
+src/pyutil/pyutil.py
+src/pyutil.egg-info/PKG-INFO
+src/pyutil.egg-info/SOURCES.txt
+src/pyutil.egg-info/dependency_links.txt
+src/pyutil.egg-info/top_level.txt
